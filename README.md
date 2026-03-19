@@ -2,9 +2,9 @@
 
 # Indice:
 <div align="height"><br>
-  <a href="https://github.com/Iagosilva019/reserva_cinema/new/main?filename=README.md#instru%C3%A7%C3%B5es-de-instala%C3%A7%C3%A3o-e-execu%C3%A7%C3%A3o"> - Instruções de instalação e execução</a><br>
-  <a href="https://github.com/Iagosilva019/reserva_cinema/new/main?filename=README.md#prints-da-interface"> -  Prints da interface</a><br>
-  <a href="https://github.com/Iagosilva019/reserva_cinema/new/main?filename=README.md#estrutura-do-c%C3%B3digo"> - Estrutura do código</a><br>
+  <a href="https://github.com/Iagosilva019/reserva_cinema/tree/main#instru%C3%A7%C3%B5es-de-instala%C3%A7%C3%A3o-e-execu%C3%A7%C3%A3o"> - Instruções de instalação e execução</a><br>
+  <a href="https://github.com/Iagosilva019/reserva_cinema/tree/main#prints-da-interface"> -  Prints da interface</a><br>
+  <a href="https://github.com/Iagosilva019/reserva_cinema/tree/main#estrutura-do-c%C3%B3digo"> - Estrutura do código</a><br>
               
  
 
