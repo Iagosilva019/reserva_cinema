@@ -17,7 +17,7 @@
      
       <button
        type="button"
-       @click="$emit('telacad')"
+       @click="$emit('telacadastro')"
       >Quero cadastrar</button>
       <p v-if="error" class="error">{{ error }}</p>
     </form>

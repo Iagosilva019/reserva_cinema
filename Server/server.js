@@ -158,7 +158,88 @@ app.post("/reservar", async (req, res) => {
 
 
 
+app.get("/reservas/:usuario", async (req, res) => {
 
+  const { data, error } = await supabase
+    .from("reservas")
+    .select(`
+      id,
+      assentos (
+        id,
+        fila,
+        numero,
+        sessoes (
+          horario,
+          filmes (
+            nome
+          )
+        )
+      )
+    `)
+    .eq("usuario_id", req.params.usuario)
+
+  if (error) {
+    return res.status(500).json(error)
+  }
+
+  res.json(data)
+
+})
+
+
+app.delete("/reservas/:id", async (req, res) => {
+
+  const { id } = req.params
+
+  // 1️⃣ pega assento_id
+  const { data: reserva, error: erroBusca } = await supabase
+    .from("reservas")
+    .select("assento_id")
+    .eq("id", id)
+    .single()
+
+  if (erroBusca) return res.status(500).json(erroBusca)
+
+  // 2️⃣ deleta reserva
+  await supabase
+    .from("reservas")
+    .delete()
+    .eq("id", id)
+
+  // 3️⃣ libera assento
+  const { error: erroUpdate } = await supabase
+    .from("assentos")
+    .update({ reservado: false })
+    .eq("id", reserva.assento_id)
+
+  if (erroUpdate) return res.status(500).json(erroUpdate)
+
+  res.json({ mensagem: "Reserva cancelada e assento liberado" })
+
+})
+
+
+
+
+
+
+app.put("/assentos/:id", async (req, res) => {
+
+  const { id } = req.params
+  const { reservado } = req.body
+
+  const { data, error } = await supabase
+    .from("assentos")
+    .update({ reservado })
+    .eq("id", id)
+
+  if (error) {
+    return res.status(500).json(error)
+  }
+
+  res.json(data)
+
+})
 
 
 app.listen(5000,()=>{
