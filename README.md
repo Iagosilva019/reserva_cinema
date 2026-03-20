@@ -5,13 +5,29 @@
   <a href="https://github.com/Iagosilva019/reserva_cinema/tree/main#instru%C3%A7%C3%B5es-de-instala%C3%A7%C3%A3o-e-execu%C3%A7%C3%A3o"> - Instruções de instalação e execução</a><br>
   <a href="https://github.com/Iagosilva019/reserva_cinema/tree/main#prints-da-interface"> -  Prints da interface</a><br>
   <a href="https://github.com/Iagosilva019/reserva_cinema/tree/main#estrutura-do-c%C3%B3digo"> - Estrutura do código</a><br>
-              
- 
-
+  
 </div><br>
 
 
 # Instruções de instalação e execução
+
+<h3>Instalação: </h3>
+
+```git clone https://github.com/Iagosilva019/reserva_cinema```
+
+  
+<h3>Executar o Servidor:</h3>
+
+```nodejs Server/server.js```
+
+<h5>Abra outra aba para executar o cliente ... </h5>
+<h3>Executar o Cliente:</h3>
+
+```cd Client```
+
+```npm run dev``` 
+
+
 
 # Prints da interface
 <img width="1263" height="603" alt="Captura de tela de 2026-03-19 19-49-23" src="https://github.com/user-attachments/assets/4b5bd14b-73f3-44fb-b0e8-f4988d0961c8" />
