@@ -30,19 +30,18 @@
 
 
 # Prints da interface
-<img width="1263" height="603" alt="Captura de tela de 2026-03-19 19-49-23" src="https://github.com/user-attachments/assets/4b5bd14b-73f3-44fb-b0e8-f4988d0961c8" />
+<img width="1303" height="614" alt="Captura de tela de 2026-03-20 11-11-52" src="https://github.com/user-attachments/assets/dcecfb3c-3125-4967-8715-290310736e68" />
 
+<img width="1303" height="614" alt="Captura de tela de 2026-03-20 11-12-06" src="https://github.com/user-attachments/assets/108bd304-3944-4b13-bab2-9ed9a0c9974d" />
 
-<img width="1263" height="611" alt="Captura de tela de 2026-03-19 19-49-41" src="https://github.com/user-attachments/assets/b21ecb26-6111-45a8-ae4a-6d87f884bef3" />
+<img width="1303" height="614" alt="Captura de tela de 2026-03-20 11-12-29" src="https://github.com/user-attachments/assets/bf6e491c-c880-4d92-9278-01f25ae5327a" />
 
+<img width="1303" height="614" alt="Captura de tela de 2026-03-20 11-12-45" src="https://github.com/user-attachments/assets/caf59c95-68fd-4254-9e2c-c97f2d296142" />
 
-<img width="1263" height="611" alt="Captura de tela de 2026-03-19 19-50-05" src="https://github.com/user-attachments/assets/69542a38-fe0c-41cb-af02-2006a21f0bcd" />
+<img width="1303" height="614" alt="Captura de tela de 2026-03-20 11-13-01" src="https://github.com/user-attachments/assets/1d02119a-1cab-42cb-bfa4-d62ac4fd869c" />
 
+<img width="1303" height="614" alt="Captura de tela de 2026-03-20 11-13-14" src="https://github.com/user-attachments/assets/ef570f53-a819-4b3d-97e1-d308c846062b" />
 
-<img width="1263" height="611" alt="Captura de tela de 2026-03-19 19-50-13" src="https://github.com/user-attachments/assets/ae104abe-9a33-418a-9304-e3696d9a4d26" />
-
-
-<img width="1263" height="611" alt="Captura de tela de 2026-03-19 19-50-24" src="https://github.com/user-attachments/assets/aa4e3eff-8cc8-4307-b4da-b8d32dac9d21" />
 
 
 # Estrutura do código
