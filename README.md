@@ -30,16 +30,23 @@
 
 
 # Prints da interface
+
+<h3>tela: Filmes</h3>
 <img width="1303" height="614" alt="Captura de tela de 2026-03-20 11-11-52" src="https://github.com/user-attachments/assets/dcecfb3c-3125-4967-8715-290310736e68" />
 
+<h3>tela: Sessões</h3>
 <img width="1303" height="614" alt="Captura de tela de 2026-03-20 11-12-06" src="https://github.com/user-attachments/assets/108bd304-3944-4b13-bab2-9ed9a0c9974d" />
 
+<h3>tela: Assentos </h3>
 <img width="1303" height="614" alt="Captura de tela de 2026-03-20 11-12-29" src="https://github.com/user-attachments/assets/bf6e491c-c880-4d92-9278-01f25ae5327a" />
 
+<h3>tela: Reservas</h3>
 <img width="1303" height="614" alt="Captura de tela de 2026-03-20 11-12-45" src="https://github.com/user-attachments/assets/caf59c95-68fd-4254-9e2c-c97f2d296142" />
 
+<h3>tela: Login</h3>
 <img width="1303" height="614" alt="Captura de tela de 2026-03-20 11-13-01" src="https://github.com/user-attachments/assets/1d02119a-1cab-42cb-bfa4-d62ac4fd869c" />
 
+<h3>tela: Cadastro</h3>
 <img width="1303" height="614" alt="Captura de tela de 2026-03-20 11-13-14" src="https://github.com/user-attachments/assets/ef570f53-a819-4b3d-97e1-d308c846062b" />
 
 
